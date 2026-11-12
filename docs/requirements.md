@@ -36,7 +36,7 @@
 - **Tratarea erorilor:** Utilizatorul primeste mesaje clare, fara detalii tehnice, iar fisierele CSV invalide sunt respinse fara a afecta aplicatia.
 - **Confidentialitatea datelor:** Se colecteaza doar datele necesare, adresele de email nu sunt publice, iar feedback-ul ramane anonim.
 - **Design responsive:** Interfata functioneaza corect pe telefon, tableta si desktop, fara scroll orizontal.
-- **Testare automata:** Fluxurile principale si situatiile de eroare (ultimul loc, coliziuni, acces interzis, import CSV invalid) sunt verificate prin teste automate.
+- **Testare:** Fluxurile principale si situatiile de eroare (ultimul loc, coliziuni, acces interzis, import CSV invalid) sunt testate.
 - **Portabilitate si format deschis:** Aplicatia ruleaza local prin `pip install -r requirements.txt` si `flask run`, iar fisierele CSV folosesc `UTF-8`, separator virgula si antet.
 
 ### Optionale
