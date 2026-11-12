@@ -1,0 +1,359 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1640 1128" width="1640" height="1128"
+    font-family="Inter,'Segoe UI',Arial,sans-serif" xmlns:c2pa="http://c2pa.org/manifest">
+    <title>UC-04 · Completarea formularului de feedback anonimizat</title>
+    <defs>
+        <marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+            <path d="M0,0 L8,4 L0,8 z" fill="#315efb" />
+        </marker>
+    </defs>
+    <rect width="1640" height="1128" fill="#f5f7fb" />
+    <text x="40" y="46" font-size="22" font-weight="800" fill="#172033" text-anchor="start">UC-04 ·
+        Completarea formularului de feedback anonimizat</text>
+    <text x="40" y="104" font-size="13" font-weight="700" fill="#315efb" text-anchor="start">Flux
+        principal</text>
+    <text x="40" y="132" font-size="14" font-weight="700" fill="#172033" text-anchor="start">1 ·
+        Agenda mea</text>
+    <text x="40" y="150" font-size="11" font-weight="400" fill="#667085" text-anchor="start">Butonul
+        „Evaluează sesiunea” este activ doar pentru ATTENDED</text>
+    <g transform="translate(40,162)">
+        <clipPath id="c14">
+            <rect width="460" height="340" rx="12" />
+        </clipPath>
+        <rect width="460" height="340" rx="12" fill="#fff" stroke="#cfd6e4" stroke-width="1.2" />
+        <g clip-path="url(#c14)">
+            <rect width="460" height="40" fill="#111a2c" />
+            <text x="18" y="25" font-size="14" font-weight="800" fill="#fff">Tech<tspan
+                    fill="#8da7ff">Pulse</tspan></text>
+            <circle cx="434" cy="20" r="12" fill="#e9edff" />
+            <text x="434" y="24" font-size="10" font-weight="700" fill="#315efb"
+                text-anchor="middle">U</text>
+            <g transform="translate(0,40)">
+                <text x="20" y="26" font-size="16" font-weight="700" fill="#172033"
+                    text-anchor="start">Agenda mea</text>
+                <text x="20" y="44" font-size="11" font-weight="400" fill="#667085"
+                    text-anchor="start">Sesiunile la care ești înscris</text>
+                <rect x="20" y="58" width="420" height="226" rx="10" fill="#fff" stroke="#e5e9f0" />
+                <text x="36" y="86" font-size="13" font-weight="700" fill="#172033"
+                    text-anchor="start">REST API cu Flask</text>
+                <text x="36" y="102" font-size="10.5" font-weight="400" fill="#667085"
+                    text-anchor="start">18.11.2026 · Lab 3</text>
+                <rect x="36" y="110" width="169" height="20" rx="10" fill="#fff4df" stroke="none" />
+                <text x="45" y="124" font-size="10.5" font-weight="700" fill="#a15c00"
+                    text-anchor="start">Prezent · feedback necesar</text>
+                <rect x="283" y="82" width="141" height="30" rx="8" fill="#315efb" stroke="#315efb" />
+                <text x="353.5" y="101.5" font-size="12" font-weight="600" fill="#fff"
+                    text-anchor="middle">Evaluează sesiunea</text>
+                <line x1="36" y1="134" x2="424" y2="134" stroke="#e5e9f0" />
+                <text x="36" y="156" font-size="13" font-weight="700" fill="#172033"
+                    text-anchor="start">Introducere în MLOps</text>
+                <text x="36" y="172" font-size="10.5" font-weight="400" fill="#667085"
+                    text-anchor="start">21.11.2026 · Sala A1</text>
+                <rect x="36" y="180" width="64" height="20" rx="10" fill="#e9f7f0" stroke="none" />
+                <text x="45" y="194" font-size="10.5" font-weight="700" fill="#16845b"
+                    text-anchor="start">Rezervat</text>
+                <rect x="283" y="152" width="141" height="30" rx="8" fill="#f0f2f6" stroke="#e5e9f0" />
+                <text x="353.5" y="171.5" font-size="12" font-weight="600" fill="#98a2b3"
+                    text-anchor="middle">Evaluează sesiunea</text>
+                <line x1="36" y1="204" x2="424" y2="204" stroke="#e5e9f0" />
+                <text x="36" y="226" font-size="13" font-weight="700" fill="#172033"
+                    text-anchor="start">Docker pentru începători</text>
+                <text x="36" y="242" font-size="10.5" font-weight="400" fill="#667085"
+                    text-anchor="start">12.11.2026 · Lab 1</text>
+                <rect x="36" y="250" width="105" height="20" rx="10" fill="#e9f7f0" stroke="none" />
+                <text x="45" y="264" font-size="10.5" font-weight="700" fill="#16845b"
+                    text-anchor="start">Feedback trimis</text>
+                <rect x="283" y="222" width="141" height="30" rx="8" fill="#f0f2f6" stroke="#e5e9f0" />
+                <text x="353.5" y="241.5" font-size="12" font-weight="600" fill="#98a2b3"
+                    text-anchor="middle">Evaluează sesiunea</text>
+            </g>
+        </g>
+    </g>
+    <text x="590" y="132" font-size="14" font-weight="700" fill="#172033" text-anchor="start">2 ·
+        Formular de evaluare</text>
+    <text x="590" y="150" font-size="11" font-weight="400" fill="#667085" text-anchor="start">Note
+        1–5 validate pe server · comentariu opțional</text>
+    <g transform="translate(590,162)">
+        <clipPath id="c15">
+            <rect width="460" height="422" rx="12" />
+        </clipPath>
+        <rect width="460" height="422" rx="12" fill="#fff" stroke="#cfd6e4" stroke-width="1.2" />
+        <g clip-path="url(#c15)">
+            <rect width="460" height="40" fill="#111a2c" />
+            <text x="18" y="25" font-size="14" font-weight="800" fill="#fff">Tech<tspan
+                    fill="#8da7ff">Pulse</tspan></text>
+            <circle cx="434" cy="20" r="12" fill="#e9edff" />
+            <text x="434" y="24" font-size="10" font-weight="700" fill="#315efb"
+                text-anchor="middle">U</text>
+            <g transform="translate(0,40)">
+                <text x="20" y="26" font-size="16" font-weight="700" fill="#172033"
+                    text-anchor="start">Evaluare sesiune</text>
+                <text x="20" y="44" font-size="11" font-weight="400" fill="#667085"
+                    text-anchor="start">REST API cu Flask · 18.11.2026</text>
+                <rect x="20" y="58" width="420" height="52" rx="9" fill="#f0f5ff" stroke="#dce6ff" />
+                <circle cx="40" cy="84.0" r="9" fill="#344c88" />
+                <text x="40" y="88.0" font-size="12" font-weight="800" fill="#fff"
+                    text-anchor="middle">i</text>
+                <text x="58" y="80" font-size="11.5" font-weight="700" fill="#344c88"
+                    text-anchor="start">Feedback anonim</text>
+                <text x="58" y="96" font-size="11.5" font-weight="400" fill="#344c88"
+                    text-anchor="start">Răspunsul tău nu este legat de contul tău.</text>
+                <text x="20" y="124" font-size="11" font-weight="700" fill="#475467"
+                    text-anchor="start">Utilitate practică *</text>
+                <rect x="20" y="134" width="44" height="28" rx="7" fill="#fff" stroke="#d7dce5" />
+                <text x="42" y="153" font-size="12" font-weight="400" fill="#172033"
+                    text-anchor="middle">1</text>
+                <rect x="72" y="134" width="44" height="28" rx="7" fill="#fff" stroke="#d7dce5" />
+                <text x="94" y="153" font-size="12" font-weight="400" fill="#172033"
+                    text-anchor="middle">2</text>
+                <rect x="124" y="134" width="44" height="28" rx="7" fill="#fff" stroke="#d7dce5" />
+                <text x="146" y="153" font-size="12" font-weight="400" fill="#172033"
+                    text-anchor="middle">3</text>
+                <rect x="176" y="134" width="44" height="28" rx="7" fill="#fff" stroke="#d7dce5" />
+                <text x="198" y="153" font-size="12" font-weight="400" fill="#172033"
+                    text-anchor="middle">4</text>
+                <rect x="228" y="134" width="44" height="28" rx="7" fill="#edf2ff" stroke="#315efb" />
+                <text x="250" y="153" font-size="12" font-weight="700" fill="#315efb"
+                    text-anchor="middle">5</text>
+                <text x="20" y="184" font-size="11" font-weight="700" fill="#475467"
+                    text-anchor="start">Claritatea speakerului *</text>
+                <rect x="20" y="194" width="44" height="28" rx="7" fill="#fff" stroke="#d7dce5" />
+                <text x="42" y="213" font-size="12" font-weight="400" fill="#172033"
+                    text-anchor="middle">1</text>
+                <rect x="72" y="194" width="44" height="28" rx="7" fill="#fff" stroke="#d7dce5" />
+                <text x="94" y="213" font-size="12" font-weight="400" fill="#172033"
+                    text-anchor="middle">2</text>
+                <rect x="124" y="194" width="44" height="28" rx="7" fill="#fff" stroke="#d7dce5" />
+                <text x="146" y="213" font-size="12" font-weight="400" fill="#172033"
+                    text-anchor="middle">3</text>
+                <rect x="176" y="194" width="44" height="28" rx="7" fill="#edf2ff" stroke="#315efb" />
+                <text x="198" y="213" font-size="12" font-weight="700" fill="#315efb"
+                    text-anchor="middle">4</text>
+                <rect x="228" y="194" width="44" height="28" rx="7" fill="#fff" stroke="#d7dce5" />
+                <text x="250" y="213" font-size="12" font-weight="400" fill="#172033"
+                    text-anchor="middle">5</text>
+                <text x="20" y="252" font-size="11" font-weight="700" fill="#475467"
+                    text-anchor="start">Sugestii și comentarii (opțional)</text>
+                <rect x="20" y="258" width="420" height="56" rx="8" fill="#fff" stroke="#d7dce5" />
+                <text x="30" y="277" font-size="12" font-weight="400" fill="#667085"
+                    text-anchor="start">Ce ar putea fi îmbunătățit?</text>
+                <rect x="20" y="330" width="129" height="30" rx="8" fill="#315efb" stroke="#315efb" />
+                <text x="84.5" y="349.5" font-size="12" font-weight="600" fill="#fff"
+                    text-anchor="middle">Trimite feedback</text>
+                <rect x="150" y="330" width="78" height="30" rx="8" fill="#fff" stroke="#d7dce5" />
+                <text x="189.0" y="349.5" font-size="12" font-weight="600" fill="#172033"
+                    text-anchor="middle">Anulează</text>
+            </g>
+        </g>
+    </g>
+    <text x="1140" y="132" font-size="14" font-weight="700" fill="#172033" text-anchor="start">3 ·
+        Feedback trimis</text>
+    <text x="1140" y="150" font-size="11" font-weight="400" fill="#667085" text-anchor="start">feedback_submitted
+        = TRUE · certificat deblocat</text>
+    <g transform="translate(1140,162)">
+        <clipPath id="c16">
+            <rect width="460" height="316" rx="12" />
+        </clipPath>
+        <rect width="460" height="316" rx="12" fill="#fff" stroke="#cfd6e4" stroke-width="1.2" />
+        <g clip-path="url(#c16)">
+            <rect width="460" height="40" fill="#111a2c" />
+            <text x="18" y="25" font-size="14" font-weight="800" fill="#fff">Tech<tspan
+                    fill="#8da7ff">Pulse</tspan></text>
+            <circle cx="434" cy="20" r="12" fill="#e9edff" />
+            <text x="434" y="24" font-size="10" font-weight="700" fill="#315efb"
+                text-anchor="middle">U</text>
+            <g transform="translate(0,40)">
+                <rect x="20" y="16" width="420" height="52" rx="9" fill="#e9f7f0" stroke="#bfe5d3" />
+                <circle cx="40" cy="42.0" r="9" fill="#0f6244" />
+                <path d="M36,42.0 L39,45.0 L44,39.0" stroke="#fff" stroke-width="2" fill="none" />
+                <text x="58" y="38" font-size="11.5" font-weight="700" fill="#0f6244"
+                    text-anchor="start">Feedback trimis.</text>
+                <text x="58" y="54" font-size="11.5" font-weight="400" fill="#0f6244"
+                    text-anchor="start">Certificatul de participare este acum deblocat.</text>
+                <rect x="20" y="78" width="420" height="100" rx="10" fill="#fff" stroke="#e5e9f0" />
+                <text x="36" y="104" font-size="13" font-weight="700" fill="#172033"
+                    text-anchor="start">REST API cu Flask</text>
+                <text x="36" y="120" font-size="10.5" font-weight="400" fill="#667085"
+                    text-anchor="start">18.11.2026 · Lab 3</text>
+                <rect x="36" y="128" width="105" height="20" rx="10" fill="#e9f7f0" stroke="none" />
+                <text x="45" y="142" font-size="10.5" font-weight="700" fill="#16845b"
+                    text-anchor="start">Feedback trimis</text>
+                <rect x="289" y="100" width="135" height="30" rx="8" fill="#315efb" stroke="#315efb" />
+                <text x="356.5" y="119.5" font-size="12" font-weight="600" fill="#fff"
+                    text-anchor="middle">Vezi certificatul</text>
+                <rect x="20" y="192" width="420" height="64" rx="10" fill="#fafbfc" stroke="#c9d2e3"
+                    stroke-dasharray="5 4" />
+                <text x="36" y="214" font-size="11" font-weight="700" fill="#475467"
+                    text-anchor="start">Date salvate</text>
+                <text x="36" y="232" font-size="11" font-weight="400" fill="#667085"
+                    text-anchor="start">Înscriere: feedback_submitted = TRUE</text>
+                <text x="36" y="246" font-size="11" font-weight="400" fill="#667085"
+                    text-anchor="start">Notele și textul → tabela feedback, doar cu session_id</text>
+            </g>
+        </g>
+    </g>
+    <line x1="505" y1="272" x2="585" y2="272" stroke="#315efb" stroke-width="1.6"
+        marker-end="url(#ah)" />
+    <text x="545.0" y="256" font-size="10" font-weight="600" fill="#315efb" text-anchor="middle">
+        Evaluează</text>
+    <text x="545.0" y="268" font-size="10" font-weight="600" fill="#315efb" text-anchor="middle">
+        sesiunea</text>
+    <line x1="1055" y1="272" x2="1135" y2="272" stroke="#315efb" stroke-width="1.6"
+        marker-end="url(#ah)" />
+    <text x="1095.0" y="256" font-size="10" font-weight="600" fill="#315efb" text-anchor="middle">
+        Trimite</text>
+    <text x="1095.0" y="268" font-size="10" font-weight="600" fill="#315efb" text-anchor="middle">
+        feedback</text>
+    <text x="40" y="630" font-size="13" font-weight="700" fill="#315efb" text-anchor="start">Situații
+        de excepție</text>
+    <text x="40" y="658" font-size="14" font-weight="700" fill="#172033" text-anchor="start">1a ·
+        Fără prezență confirmată</text>
+    <text x="40" y="676" font-size="11" font-weight="400" fill="#667085" text-anchor="start">403
+        Forbidden · cerere directă către rută</text>
+    <g transform="translate(40,688)">
+        <clipPath id="c17">
+            <rect width="460" height="238" rx="12" />
+        </clipPath>
+        <rect width="460" height="238" rx="12" fill="#fff" stroke="#cfd6e4" stroke-width="1.2" />
+        <g clip-path="url(#c17)">
+            <rect width="460" height="40" fill="#111a2c" />
+            <text x="18" y="25" font-size="14" font-weight="800" fill="#fff">Tech<tspan
+                    fill="#8da7ff">Pulse</tspan></text>
+            <circle cx="434" cy="20" r="12" fill="#e9edff" />
+            <text x="434" y="24" font-size="10" font-weight="700" fill="#315efb"
+                text-anchor="middle">U</text>
+            <g transform="translate(0,40)">
+                <rect x="20" y="16" width="420" height="52" rx="9" fill="#fff0f0" stroke="#f1c9c9" />
+                <circle cx="40" cy="42.0" r="9" fill="#9b2c2c" />
+                <path d="M37,39.0 L43,45.0 M43,39.0 L37,45.0" stroke="#fff" stroke-width="2"
+                    fill="none" />
+                <text x="58" y="38" font-size="11.5" font-weight="700" fill="#9b2c2c"
+                    text-anchor="start">Formularul de feedback este disponibil exclusiv</text>
+                <text x="58" y="54" font-size="11.5" font-weight="700" fill="#9b2c2c"
+                    text-anchor="start">participanților prezenți.</text>
+                <rect x="20" y="70" width="420" height="108" rx="10" fill="#fff" stroke="#e5e9f0" />
+                <text x="36" y="94" font-size="13" font-weight="700" fill="#172033"
+                    text-anchor="start">Introducere în MLOps</text>
+                <rect x="36" y="104" width="64" height="20" rx="10" fill="#e9f7f0" stroke="none" />
+                <text x="45" y="118" font-size="10.5" font-weight="700" fill="#16845b"
+                    text-anchor="start">Rezervat</text>
+                <text x="130" y="118" font-size="11" font-weight="400" fill="#667085"
+                    text-anchor="start">Stare REGISTERED, nu ATTENDED</text>
+                <rect x="36" y="130" width="154" height="30" rx="8" fill="#fff" stroke="#d7dce5" />
+                <text x="113.0" y="149.5" font-size="12" font-weight="600" fill="#172033"
+                    text-anchor="middle">Înapoi la Agenda mea</text>
+            </g>
+        </g>
+    </g>
+    <text x="590" y="658" font-size="14" font-weight="700" fill="#172033" text-anchor="start">1b ·
+        Trimitere multiplă</text>
+    <text x="590" y="676" font-size="11" font-weight="400" fill="#667085" text-anchor="start">Refuz
+        pe server pe baza feedback_submitted</text>
+    <g transform="translate(590,688)">
+        <clipPath id="c18">
+            <rect width="460" height="246" rx="12" />
+        </clipPath>
+        <rect width="460" height="246" rx="12" fill="#fff" stroke="#cfd6e4" stroke-width="1.2" />
+        <g clip-path="url(#c18)">
+            <rect width="460" height="40" fill="#111a2c" />
+            <text x="18" y="25" font-size="14" font-weight="800" fill="#fff">Tech<tspan
+                    fill="#8da7ff">Pulse</tspan></text>
+            <circle cx="434" cy="20" r="12" fill="#e9edff" />
+            <text x="434" y="24" font-size="10" font-weight="700" fill="#315efb"
+                text-anchor="middle">U</text>
+            <g transform="translate(0,40)">
+                <rect x="20" y="16" width="420" height="52" rx="9" fill="#fff8e8" stroke="#f3dfae" />
+                <circle cx="40" cy="42.0" r="9" fill="#7a4a00" />
+                <text x="40" y="46.0" font-size="12" font-weight="800" fill="#fff"
+                    text-anchor="middle">!</text>
+                <text x="58" y="38" font-size="11.5" font-weight="700" fill="#7a4a00"
+                    text-anchor="start">Ai trimis deja feedback pentru această sesiune.</text>
+                <text x="58" y="54" font-size="11.5" font-weight="400" fill="#7a4a00"
+                    text-anchor="start">Nu poți trimite un al doilea formular.</text>
+                <rect x="20" y="78" width="420" height="108" rx="10" fill="#fff" stroke="#e5e9f0" />
+                <text x="36" y="102" font-size="13" font-weight="700" fill="#172033"
+                    text-anchor="start">Docker pentru începători</text>
+                <rect x="36" y="112" width="105" height="20" rx="10" fill="#e9f7f0" stroke="none" />
+                <text x="45" y="126" font-size="10.5" font-weight="700" fill="#16845b"
+                    text-anchor="start">Feedback trimis</text>
+                <rect x="36" y="142" width="154" height="30" rx="8" fill="#fff" stroke="#d7dce5" />
+                <text x="113.0" y="161.5" font-size="12" font-weight="600" fill="#172033"
+                    text-anchor="middle">Înapoi la Agenda mea</text>
+            </g>
+        </g>
+    </g>
+    <text x="1140" y="658" font-size="14" font-weight="700" fill="#172033" text-anchor="start">4a ·
+        Notă lipsă sau invalidă</text>
+    <text x="1140" y="676" font-size="11" font-weight="400" fill="#667085" text-anchor="start">400
+        Bad Request · validare pe server (pasul 4)</text>
+    <g transform="translate(1140,688)">
+        <clipPath id="c19">
+            <rect width="460" height="410" rx="12" />
+        </clipPath>
+        <rect width="460" height="410" rx="12" fill="#fff" stroke="#cfd6e4" stroke-width="1.2" />
+        <g clip-path="url(#c19)">
+            <rect width="460" height="40" fill="#111a2c" />
+            <text x="18" y="25" font-size="14" font-weight="800" fill="#fff">Tech<tspan
+                    fill="#8da7ff">Pulse</tspan></text>
+            <circle cx="434" cy="20" r="12" fill="#e9edff" />
+            <text x="434" y="24" font-size="10" font-weight="700" fill="#315efb"
+                text-anchor="middle">U</text>
+            <g transform="translate(0,40)">
+                <rect x="20" y="16" width="420" height="52" rx="9" fill="#fff0f0" stroke="#f1c9c9" />
+                <circle cx="40" cy="42.0" r="9" fill="#9b2c2c" />
+                <path d="M37,39.0 L43,45.0 M43,39.0 L37,45.0" stroke="#fff" stroke-width="2"
+                    fill="none" />
+                <text x="58" y="38" font-size="11.5" font-weight="700" fill="#9b2c2c"
+                    text-anchor="start">Feedback-ul nu a fost trimis.</text>
+                <text x="58" y="54" font-size="11.5" font-weight="400" fill="#9b2c2c"
+                    text-anchor="start">Alege o notă de la 1 la 5 pentru fiecare întrebare.</text>
+                <text x="20" y="96" font-size="11" font-weight="700" fill="#475467"
+                    text-anchor="start">Utilitate practică *</text>
+                <rect x="20" y="106" width="44" height="28" rx="7" fill="#fffafa" stroke="#c43d3d" />
+                <text x="42" y="125" font-size="12" font-weight="400" fill="#172033"
+                    text-anchor="middle">1</text>
+                <rect x="72" y="106" width="44" height="28" rx="7" fill="#fffafa" stroke="#c43d3d" />
+                <text x="94" y="125" font-size="12" font-weight="400" fill="#172033"
+                    text-anchor="middle">2</text>
+                <rect x="124" y="106" width="44" height="28" rx="7" fill="#fffafa" stroke="#c43d3d" />
+                <text x="146" y="125" font-size="12" font-weight="400" fill="#172033"
+                    text-anchor="middle">3</text>
+                <rect x="176" y="106" width="44" height="28" rx="7" fill="#fffafa" stroke="#c43d3d" />
+                <text x="198" y="125" font-size="12" font-weight="400" fill="#172033"
+                    text-anchor="middle">4</text>
+                <rect x="228" y="106" width="44" height="28" rx="7" fill="#fffafa" stroke="#c43d3d" />
+                <text x="250" y="125" font-size="12" font-weight="400" fill="#172033"
+                    text-anchor="middle">5</text>
+                <text x="20" y="148" font-size="11" font-weight="600" fill="#c43d3d"
+                    text-anchor="start">Alege o notă de la 1 la 5.</text>
+                <text x="20" y="172" font-size="11" font-weight="700" fill="#475467"
+                    text-anchor="start">Claritatea speakerului *</text>
+                <rect x="20" y="182" width="44" height="28" rx="7" fill="#fff" stroke="#d7dce5" />
+                <text x="42" y="201" font-size="12" font-weight="400" fill="#172033"
+                    text-anchor="middle">1</text>
+                <rect x="72" y="182" width="44" height="28" rx="7" fill="#fff" stroke="#d7dce5" />
+                <text x="94" y="201" font-size="12" font-weight="400" fill="#172033"
+                    text-anchor="middle">2</text>
+                <rect x="124" y="182" width="44" height="28" rx="7" fill="#fff" stroke="#d7dce5" />
+                <text x="146" y="201" font-size="12" font-weight="400" fill="#172033"
+                    text-anchor="middle">3</text>
+                <rect x="176" y="182" width="44" height="28" rx="7" fill="#edf2ff" stroke="#315efb" />
+                <text x="198" y="201" font-size="12" font-weight="700" fill="#315efb"
+                    text-anchor="middle">4</text>
+                <rect x="228" y="182" width="44" height="28" rx="7" fill="#fff" stroke="#d7dce5" />
+                <text x="250" y="201" font-size="12" font-weight="400" fill="#172033"
+                    text-anchor="middle">5</text>
+                <text x="20" y="240" font-size="11" font-weight="700" fill="#475467"
+                    text-anchor="start">Sugestii și comentarii (opțional)</text>
+                <rect x="20" y="246" width="420" height="56" rx="8" fill="#fff" stroke="#d7dce5" />
+                <text x="30" y="265" font-size="12" font-weight="400" fill="#667085"
+                    text-anchor="start">Ce ar putea fi îmbunătățit?</text>
+                <rect x="20" y="318" width="129" height="30" rx="8" fill="#315efb" stroke="#315efb" />
+                <text x="84.5" y="337.5" font-size="12" font-weight="600" fill="#fff"
+                    text-anchor="middle">Trimite feedback</text>
+                <rect x="150" y="318" width="78" height="30" rx="8" fill="#fff" stroke="#d7dce5" />
+                <text x="189.0" y="337.5" font-size="12" font-weight="600" fill="#172033"
+                    text-anchor="middle">Anulează</text>
+            </g>
+        </g>
+    </g>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3YzRiNzg5Yy1jN2I3LTQ5NDYtYTdiNy0wMTdhOWMwMWJkZDcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaN5VJSUpg0fYQ1wnUY4JM2kAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplYjI1MjZlZC03YmZkLTQwNzMtYjgzYi04NjI4NGQ3MzIyMjNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo3gD8XPU5YPu/FQ6VRTPoqgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggk0QGkEk9ZAG8l8sBbxHgaXuptXASWp/nOxeFKOuRfEqkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaLc/l5xADKFWpFP754f9xNIAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIIXOYk0WyYh4X3aLhnVuRfWkXRS3liA93DnuPeskoYuAZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GWHuZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjdjNGI3ODljLWM3YjctNDk0Ni1hN2I3LTAxN2E5YzAxYmRkNy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjhlZjRkMmM4LWM0YjUtNDAyZS05NTBhLTAyYTUxMmRjMmFhZnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCTRAaQST1kAbyXywFvEeBpe6m1cBJan+c7F4Uo65F8SqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggm28VculwctreKLEPWG3ysg6Yt9NnLGo/kt3yONQ+CLmiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggcIKy2+sKGNm7o8+yJ/4Fj8YdD8opZJ2T3Z4547sDp+N0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQHni2BFpwjoOBa9hZsGwQm0vuaiCUpvlphSp0g1DgSuXOXUw4p1ykUz1zcE7vDG6sbXtLj6VsqPBPhJEjLKiYDY=</c2pa:manifest></metadata></svg>
